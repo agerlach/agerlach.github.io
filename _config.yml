@@ -22,11 +22,11 @@ repository               : "agerlach/agerlach.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pebbles.png"
+  avatar           : "me.png"
   name             : "Adam Gerlach"
   pronouns         : # example: "she/her"  
-  bio              : "At the intersection of the future and the past"
-  location         : "Dayton, OH"
+  bio              : #"""
+  location         : "New Bremen, OH"
   employer         : "Air Force Research Laboratory"
   uri              : # URL
   email            : "adam@dradamgerlach.com" 
