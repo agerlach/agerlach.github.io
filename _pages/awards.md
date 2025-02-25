@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="left">
+    <img src="../images/awards.jpg" alt="Awards" width="600">
+</p>
+
 Professional
 ----
 
